@@ -22,8 +22,8 @@ Data Dictionary
 |Features|Description|
 |:------------|  ---------------:|
 |Title|Book Title|
-|description|decription of book|
-|authors|Neme of book authors|
+|description|Description of the book|
+|authors|Name of book authors|
 |image|url for book cover|
 |previewLink|link to access this book on google Books|
 |publisher|Name of the publisheer|
