@@ -22,7 +22,7 @@ Data Dictionary
 |Features|Description|
 |:------------|  ---------------:|
 |Title|Book Title|
-|Descripe|decription of book|
+|Description|decription of book|
 |authors|Neme of book authors|
 |image|url for book cover|
 |previewLink|link to access this book on google Books|
