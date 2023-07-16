@@ -15,7 +15,7 @@ In summary, my capstone project aims to create a powerful book recommendation sy
 Data Dictionary
 ---
 
-# Books Details File
+## Books Details File
 |Features|Description|
 |:------------|  ---------------:|
 |Title|Book Title|
