@@ -7,14 +7,7 @@
 | zebra stripes | are neat        |    $1 |
 
 
-
-
-| Features | Description | 
-| :------------         |---------------:| 
-| col 3 is             |  some wordy text | 
-| col 2 is             | centered        |  
-| zebra stripes  | are neat        |
-
+|sds|
 |Features|Description|
 |:------------|  ---------------:|
 |id|The Id of Book|
@@ -26,4 +19,5 @@
 |review/score|rating from 0 to 5 for the book|
 |review/time|time of given the review|
 |review/summary|the summary of a text review|
-|review/text|the full text of a review|![image](https://github.com/rurickgrfi/Book_Recommendation_System/assets/132327691/2d3085d3-e095-4bb5-991c-f64bdab13025)
+|review/text|the full text of a review|![image](https://github.com/rurickgrfi/Book_Recommendation_System/assets/132327691/06f8ec22-da6d-4c0c-a05b-adb6da6a3e7a)
+
