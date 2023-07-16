@@ -15,6 +15,9 @@ In summary, my capstone project aims to create a powerful book recommendation sy
 Data Dictionary
 ---
 
+![9ELRD7G](https://github.com/rurickgrfi/Book_Recommendation_System/assets/132327691/51523dc1-b57f-44e1-a67f-b6dde8664f4d)
+
+
 ### Books Details File
 |Features|Description|
 |:------------|  ---------------:|
