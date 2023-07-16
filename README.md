@@ -11,4 +11,37 @@ To ensure a comprehensive recommendation experience, I employed three different 
 
 In summary, my capstone project aims to create a powerful book recommendation system that enhances the book discovery process for users. By utilizing data processing, and various recommendation techniques, I strive to provide tailored book suggestions that align with individual preferences, ultimately enriching the reading experience and fostering a love for books.
 
+---- 
+Data Dictionary
+---
+
+# Books Details File
+|Features|Description|
+|:------------|  ---------------:|
+|Title|Book Title|
+|Descripe|decription of book|
+|authors|Neme of book authors|
+|image|url for book cover|
+|previewLink|link to access this book on google Books|
+|publisher|Name of the publisheer|
+|publishedDate|the date of publish|
+|infoLink|link to get more information about the book on google books|
+|categories|genres of books|
+|ratingsCount|averaging rating for book|
+
+
+# Reviews File
+|Features|Description|
+|:------------|  ---------------:|
+|id|The Id of Book|
+|Title|Book Title|
+|Price|The price of Book|
+|User_id|Id of the user who rates the book|
+|profileName|Name of the user who rates the book|
+|review/helpfulness|helpfulness rating of the review, e.g. 2/3|
+|review/score|rating from 0 to 5 for the book|
+|review/time|time of given the review|
+|review/summary|the summary of a text review|
+|review/text|the full text of a review|
+
 
