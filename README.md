@@ -11,7 +11,7 @@ To ensure a comprehensive recommendation experience, I employed three different 
 
 In summary, my capstone project aims to create a powerful book recommendation system that enhances the book discovery process for users. By utilizing data processing, and various recommendation techniques, I strive to provide tailored book suggestions that align with individual preferences, ultimately enriching the reading experience and fostering a love for books.
 
----
+
 Data Dictionary
 ---
 
