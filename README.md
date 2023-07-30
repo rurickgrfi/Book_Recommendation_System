@@ -1,6 +1,6 @@
 # Book Recommendation System
 
-Introduction
+Project Overview
 ---
 
 Discovering the perfect book that aligns with our personal preferences can be challenging, especially for those who are not regular readers. In my capstone project, I have chosen to address this issue by building a book recommendation system. By developing this tool, I aim to predict and suggest books that individuals would enjoy reading, making the process of book selection easier and more personalized.
@@ -11,40 +11,9 @@ To ensure a comprehensive recommendation experience, I employed three different 
 
 In summary, my capstone project aims to create a powerful book recommendation system that enhances the book discovery process for users. By utilizing data processing, and various recommendation techniques, I strive to provide tailored book suggestions that align with individual preferences, ultimately enriching the reading experience and fostering a love for books.
 
-
-Data Dictionary
+Contact
 ---
 
-![9ELRD7G](https://github.com/rurickgrfi/Book_Recommendation_System/assets/132327691/933f7902-cd84-44fa-8bd3-8a3a9dbff2af)
-
-
-### Books Details File
-|Features|Description|
-|:------------|  ---------------:|
-|Title|Book Title|
-|description|Description of the book|
-|authors|Name of book authors|
-|image|url for book cover|
-|previewLink|link to access this book on google Books|
-|publisher|Name of the publisheer|
-|publishedDate|the date of publish|
-|infoLink|link to get more information about the book on google books|
-|categories|genres of books|
-|ratingsCount|averaging rating for book|
-
-
-### Reviews File
-|Features|Description|
-|:------------|  ---------------:|
-|id|The Id of Book|
-|Title|Book Title|
-|Price|The price of Book|
-|User_id|Id of the user who rates the book|
-|profileName|Name of the user who rates the book|
-|review/helpfulness|helpfulness rating of the review, e.g. 2/3|
-|review/score|rating from 0 to 5 for the book|
-|review/time|time of given the review|
-|review/summary|the summary of a text review|
-|review/text|the full text of a review|
-
-
+Please don't hesitate to contact me if you have any questions or suggestions, or simply wish to connect! 
+  LinkedIn: [rurickgr](https://www.linkedin.com/in/rurickgr/)
+  Email: rurickgrfi@gmail.com
