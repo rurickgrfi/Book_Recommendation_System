@@ -18,4 +18,4 @@ Please don't hesitate to contact me if you have any questions or suggestions!
   - Email: rurickgrfi@gmail.com
 
 
-[test](Book Recommendation Sytem.ipynb)
+[test]([Book Recommendation Sytem.ipynb](https://github.com/rurickgrfi/Book_Recommendation_System/blob/main/Book%20Recommendation%20Sytem.ipynb)https://github.com/rurickgrfi/Book_Recommendation_System/blob/main/Book%20Recommendation%20Sytem.ipynb)
