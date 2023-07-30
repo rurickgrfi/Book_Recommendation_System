@@ -13,7 +13,6 @@ In summary, my capstone project aims to create a powerful book recommendation sy
 
 Contact
 ---
-
-Please don't hesitate to contact me if you have any questions or suggestions, or simply wish to connect! 
-  LinkedIn: [rurickgr](https://www.linkedin.com/in/rurickgr/)
-  Email: rurickgrfi@gmail.com
+Please don't hesitate to contact me if you have any questions or suggestions! 
+  - LinkedIn: [rurickgr](https://www.linkedin.com/in/rurickgr/)
+  - Email: rurickgrfi@gmail.com
