@@ -2,7 +2,7 @@
 
 Project Overview
 ---
-Discovering the perfect book that aligns with our personal preferences can be challenging, especially for those who are not regular readers. In my capstone project, I have chosen to address this issue by building a book recommendation system. By developing this tool, I aim to predict and suggest books that individuals would enjoy reading, making the process of book selection easier and more personalized.
+Discovering the perfect book that aligns with our personal preferences can be challenging, especially for those who are not regular readers. In my capstone project, I have chosen to address this issue by building a book recommendation system. 
 
 My capstone project aims to create a powerful book recommendation system that enhances the book discovery process for users. By utilizing data processing, and various recommendation techniques, I strive to provide tailored book suggestions that align with individual preferences, ultimately enriching the reading experience and fostering a love for books.
 
