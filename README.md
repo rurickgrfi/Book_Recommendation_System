@@ -13,9 +13,9 @@ To address this challenge, my capstone utilize the [Amazon Books Reviews](https:
 Project Structure
 ---
 The completion of this project adhered to the following structure: 
-  - [Data Processing]() : Data collection, Cleaning and Transformation 
-  - [EDA](): Exploratory Data Analysis 
-  - [Model & Evaluation]() : Recomender system build and evaluation 
+  - [Data Processing](https://github.com/rurickgrfi/Book_Recommendation_System/blob/main/1_DataProcessing.ipynb) : Data collection, Cleaning and Transformation 
+  - [EDA](https://github.com/rurickgrfi/Book_Recommendation_System/blob/main/2_EDA.ipynb): Exploratory Data Analysis 
+  - [Model & Evaluation](https://github.com/rurickgrfi/Book_Recommendation_System/blob/main/3_Model_%26_Evaluation.ipynb) : Recomender system build and evaluation 
 
 Contact
 ---
